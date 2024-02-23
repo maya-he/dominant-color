@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates using the KMeans clustering algorithm to find the dominant colors in an image by grouping similar colors together into clusters.
+This project uses the KMeans clustering algorithm to find the dominant colors in an image by grouping similar colors together into clusters.
 
 ### Requirements
 - Python 3.x
